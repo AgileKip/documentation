@@ -1,12 +1,53 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "About"
+    url: /about
+  - title: "Contact Us"
+    url: /contact
+
+
+# pages:
+#   - title: "About"
+#     url: /about
+#   - title: "Fundamentals"
+#     url: /fundamentals
+#   - title: "Research"
+#     url: /research
+#   - title: "People"
+#     url: /people
+
+
+# documentation links
+docs:
+  - title: "Introduction"
+    children:
+      - title: "Introduction"
+        url: /intro
+      - title: "Core Technologies"
+        url: /coretech
+  - title: "Tutorials"
+    children:
+      - title: "Part01"
+        url: /part01
+      - title: "Part02"
+        url: /part02
+      - title: "Part03"
+        url: /part03
+      - title: "Part04"
+        url: /part04
+      - title: "Part05"
+        url: /part05
+      - title: "Part06"
+        url: /part06                
+  - title: "Examples"
+    children:
+      - title: "The BuyBook"
+        url: /buybook
+  - title: "Videos"
+    children:
+      - title: "Youtube Channel"
+        url: /videos     
+  - title: "Contact Us"
+    url: /contact
+
+
