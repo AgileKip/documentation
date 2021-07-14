@@ -23,8 +23,10 @@ docs:
     children:
       - title: "Introduction"
         url: /intro
+      - title: "PAIS"
+        url: /pais
       - title: "Core Technologies"
-        url: /coretech
+        url: /coretech       
   - title: "Tutorials"
     children:
       - title: "Part01"

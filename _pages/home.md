@@ -14,7 +14,7 @@ feature_row:
   - _image_path: /assets/images/mm-customizable-feature.png
     alt: "about"
     title: "About"
-    excerpt: "Code Generation Platform for Process Aware Information Systems (PAIS). "
+    excerpt: "Open Source Code Generation Platform for Process Aware Information Systems."
     url: "/about"
     btn_class: "btn--primary"
     btn_label: "Learn more"
@@ -28,7 +28,7 @@ feature_row:
   - _image_path: /assets/images/mm-responsive-feature.png
     alt: "Tutorial"
     title: "Tutorial"
-    excerpt: "Walkthrough the steps required to bootstrap your PAIS development.  "
+    excerpt: "Steps required to bootstrap developing a Process Aware Information System."
     url: "/part01"
     btn_class: "btn--primary"
     btn_label: "Learn more"

@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Process Automation Platform"
+title                    : "AgileKIP Process Automation Platform"
 title_separator          : "-"
 subtitle                 : 
 name                     : "AgileKIP Team"
