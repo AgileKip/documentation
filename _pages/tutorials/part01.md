@@ -12,7 +12,7 @@ sidebar:
 
 AK - Process Automation Platform
 
-{% include figure image_path="/assets/images/pais_01/slide1.png" alt="Platform Rationale" caption="Fig 1. Start" %}
+{% include figure image_path="assets/images/pais_01/slide1.png" alt="Platform Rationale" caption="Fig 1. Start" %}
 
 {% include figure image_path="/assets/images/pais_01/slide2.png" alt="Platform Rationale" caption="Fig 2. Agenda" %}
 
