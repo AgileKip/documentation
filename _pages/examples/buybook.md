@@ -10,6 +10,6 @@ sidebar:
   nav: "docs"
 ---
 
-AK - Process Automation Platform
+{% include figure image_path="/assets/images/buybook.png" alt="Platform Rationale" caption="Fig 1. Simple Buybook Process Model." %}
 
 Cheers and follow us on social networks!

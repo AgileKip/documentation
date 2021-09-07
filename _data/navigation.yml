@@ -29,17 +29,17 @@ docs:
   - title: "Tutorials"
     url: /tutorials
     children:
-      - title: "Part01"
+      - title: "01 - Getting Started"
         url: /tutorials/part01
-      - title: "Part02"
+      - title: "02 - Handling Gateways"
         url: /tutorials/part02
-      - title: "Part03"
+      - title: "03 - Handling ServiceTasks"
         url: /tutorials/part03
-      - title: "Part04"
+      - title: "04 - Complex Entities"
         url: /tutorials/part04
-      - title: "Part05"
+      - title: "05 - Handling Messages"
         url: /tutorials/part05
-      - title: "Part06"
+      - title: "06 - Subprocess"
         url: /tutorials/part06                
   - title: "Examples"
     url: /examples

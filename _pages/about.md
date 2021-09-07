@@ -17,7 +17,7 @@ The AgileKip platform is based on three main components: the Process-Aware Appli
 
 - The _Process-Aware Application Scaffolding Tool (PAAST)_ is built on top of JHipster, a solid and well-known application generator for web applications. PAAST generates code for the base Reference Architecture.
 - The _Reference Architecture (RA)_ seamlessly integrates features from the [Camunda Workflow Engine](https://camunda.com/), [SpringBoot](https://spring.io/) and [VueJS](https://vuetifyjs.com/en/) to support creating mission-critical and customizable process aware systems.
-- The _Agile-based Software Process (SCRUB4PA)_ is a didactical organization or the activities/tasks required to develop process aware systems using our technology.
+- The _Agile-based Software Process (SCRUB4PA)_ is a didactical outline with the activities, tasks, documents and templates required to develop process aware information systems using our technology.
 
 {% include figure image_path="/assets/images/overview.png" alt="Platform Rationale" caption="Fig 1. AKip Platform Rationale." %}
 

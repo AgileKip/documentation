@@ -2,7 +2,7 @@
 layout: splash
 permalink: /
 header:
-  overlay_image: /assets/images/pap_back_logo.png
+  overlay_image: /assets/images/pap-backsplash.png
   overlay_filter: 0.4
   overlay_color: "#5e616c"
   actions:
