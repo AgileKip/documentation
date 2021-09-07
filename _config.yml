@@ -109,8 +109,8 @@ analytics:
 author:
   name             : "AgileKIP Team"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "A passionate team to invetigate  aspects related to Agile and Knowledge Intensive Processes."
-  location         : "Waterloo-CA / Rio de de Janeiro-BR "
+  bio              : "A passionate team to investigate  aspects related to Agile and Knowledge Intensive Processes."
+  location         : "Waterloo-CA / Rio de de Janeiro-BR / Lisbon-PT"
   email            :
   links:
     - label: "Email"

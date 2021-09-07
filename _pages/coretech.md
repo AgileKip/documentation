@@ -10,6 +10,6 @@ sidebar:
   nav: "docs"
 ---
 
-AK - Process Automation Platform
+Core Technologies Coming Soon!
 
 Cheers and follow us on social networks!

@@ -18,18 +18,18 @@ feature_row:
     url: "/about"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - _image_path: /assets/images/mm-free-feature.png
-    alt: "Introduction"
-    title: "Introduction"
-    excerpt: "Explaining the underlying concepts and technologies used to our solution "
-    url: "/intro"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
   - _image_path: /assets/images/mm-responsive-feature.png
     alt: "Tutorial"
-    title: "Tutorial"
+    title: "Tutorials"
     excerpt: "Steps required to bootstrap developing a Process Aware Information System."
-    url: "/part01"
+    url: "/tutorials"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+  - _image_path: /assets/images/mm-free-feature.png
+    alt: "Examples"
+    title: "Examples"
+    excerpt: "Check or examples library and learn more."
+    url: "/examples"
     btn_class: "btn--primary"
     btn_label: "Learn more"
 ---

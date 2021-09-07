@@ -20,31 +20,32 @@ main:
 # documentation links
 docs:
   - title: "Introduction"
+    url: /about
     children:
-      - title: "Introduction"
-        url: /intro
-      - title: "PAIS"
+      - title: "Process Automation"
         url: /pais
       - title: "Core Technologies"
         url: /coretech       
   - title: "Tutorials"
+    url: /tutorials
     children:
       - title: "Part01"
-        url: /part01
+        url: /tutorials/part01
       - title: "Part02"
-        url: /part02
+        url: /tutorials/part02
       - title: "Part03"
-        url: /part03
+        url: /tutorials/part03
       - title: "Part04"
-        url: /part04
+        url: /tutorials/part04
       - title: "Part05"
-        url: /part05
+        url: /tutorials/part05
       - title: "Part06"
-        url: /part06                
+        url: /tutorials/part06                
   - title: "Examples"
+    url: /examples
     children:
       - title: "The BuyBook"
-        url: /buybook
+        url: /examples/buybook
   - title: "Videos"
     children:
       - title: "Youtube Channel"
