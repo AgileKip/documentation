@@ -14,7 +14,7 @@ Process automation - The BuyBook Example
 
 {% include video id="d2f8EbS7CVg" provider="youtube" %}
 
-this video is in Portuguese
+**Note:** This video is in Portuguese
 {: .notice--warning}
 
 Cheers and follow us on social networks!

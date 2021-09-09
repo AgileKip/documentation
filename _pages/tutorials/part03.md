@@ -11,7 +11,7 @@ sidebar:
 
 {% include video id="umeM2PXnvnU" provider="youtube" %}
 
-video has no sound
+**Note:** This video has no sound
 {: .notice--warning}
 
 Cheers and follow us on social networks!
