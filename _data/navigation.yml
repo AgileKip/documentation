@@ -47,6 +47,7 @@ docs:
       - title: "The BuyBook"
         url: /examples/buybook
   - title: "Videos"
+    url: /videos
     children:
       - title: "Youtube Channel"
         url: /videos     
