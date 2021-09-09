@@ -1,7 +1,7 @@
 ---
 layout: single
 classes: wide
-permalink: /Tutorials
+permalink: /tutorials
 title: "Tutorials"
 excerpt: "Tutorials"
 last_modified_at: 2021-01-20
