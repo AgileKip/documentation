@@ -29,7 +29,7 @@ feature_row:
     alt: "Tutorial"
     title: "Tutorial"
     excerpt: "Walkthrough the steps required to bootstrap your PAIS development.  "
-    url: "/part01"
+    url: "/intro"
     btn_class: "btn--primary"
     btn_label: "Learn more"
 ---

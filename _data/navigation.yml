@@ -27,6 +27,10 @@ docs:
         url: /coretech
   - title: "Tutorials"
     children:
+      - title: "Installing AgileKIP Generator"
+        url: /installation
+      - title: "Generating an app"
+        url: /generating-an-app
       - title: "Part01"
         url: /part01
       - title: "Part02"
