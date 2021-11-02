@@ -22,7 +22,7 @@ subtitle                 :
 name                     : "AgileKIP Team"
 description              : "Helping developers to create Process Aware Information Systems (PAIS)"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : /pap-documentation
+baseurl                  : #/
 repository               : agilekip/pap-documentation
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : /assets/images/logo.jpg # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"

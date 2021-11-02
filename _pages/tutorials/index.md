@@ -12,11 +12,11 @@ sidebar:
 
 List of Tutorials
 
-- [01 - Getting Started](part01)
-- [02 - Handling Gateways](part02)
-- [03 - Handling ServiceTasks](part03)
-- [04 - Complex Entities](part04)
-- [05 - Handling Messages](part05)
-- [06 - Subprocess](part06)
+- [01 - Getting Started](/pap-documentation/tutorials/part01)
+- [02 - Handling Gateways](/pap-documentation/tutorials/part02)
+- [03 - Handling ServiceTasks](/pap-documentation/tutorials/part03)
+- [04 - Complex Entities](/pap-documentation/tutorials/part04)
+- [05 - Handling Messages](/pap-documentation/tutorials/part05)
+- [06 - Subprocess](/pap-documentation/tutorials/part06)
 
-Cheers and follow us on social networks!!
+Cheers and follow us on social networks!
