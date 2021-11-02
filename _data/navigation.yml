@@ -40,7 +40,16 @@ docs:
       - title: "05 - Handling Messages"
         url: /tutorials/part05
       - title: "06 - Subprocess"
-        url: /tutorials/part06                
+        url: /tutorials/part06
+  - title: "Tutorials (Experimental)"
+    url: /experimental
+    children:
+      - title: "Installation"
+        url: /experimental/installation
+      - title: "Generating an app"
+        url: /experimental/generating-an-app
+      - title: "Getting started"
+        url: /experimental/part01
   - title: "Examples"
     url: /examples
     children:
