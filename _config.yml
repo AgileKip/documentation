@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Process Automation Platform"
+title                    : "AgileKIP Process Automation Platform"
 title_separator          : "-"
 subtitle                 : 
 name                     : "AgileKIP Team"
@@ -109,8 +109,8 @@ analytics:
 author:
   name             : "AgileKIP Team"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "A passionate team to invetigate  aspects related to Agile and Knowledge Intensive Processes."
-  location         : "Waterloo-CA / Rio de de Janeiro-BR "
+  bio              : "A passionate team investigating aspects related to Agile and Knowledge Intensive Processes."
+  location         : "Waterloo-CA / Rio de de Janeiro-BR / Lisbon-PT"
   email            :
   links:
     - label: "Email"

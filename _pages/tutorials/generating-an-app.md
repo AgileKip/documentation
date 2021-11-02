@@ -1,7 +1,7 @@
 ---
 layout: single
 classes: wide
-permalink: /generating-an-app
+permalink: /tutorials/generating-an-app
 title: "Generating, starting, and testing an app"
 excerpt: "GeneratingAnApp"
 last_modified_at: 2021-10-25

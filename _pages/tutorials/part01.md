@@ -1,7 +1,7 @@
 ---
 layout: single
 classes: wide
-permalink: /part01
+permalink: /tutorials/part01
 title: "Travel Plan Process - Part 1 (A very simple process)"
 excerpt: "Part01"
 last_modified_at: 2021-10-25
@@ -32,6 +32,11 @@ To develop this process, we should execute the following steps:
 1. Starting an instance of the process
 1. Generating the user task entities
 1. Executing the user tasks from a process instance
+
+
+**Travel Plan project on GitHub**: The source-code of the **Travel Plan** system is on the following GitHub repository:
+[https://github.com/AgileKip/travel-plan-tutorial](https://github.com/AgileKip/travel-plan-tutorial). You can check it out to compare with the code you are generating.
+{: .notice--warning}
 
 
 ### 1. Defining the business process model (BPMN)
@@ -72,7 +77,6 @@ The next four steps are *entities oriented*. You should generated: *domain entit
 * **process-binding entity**: this entity represents the binding between a process instance and a domain entity. In other words, the aim of this entity is to indicate the domain entity associated to the process instance.
 * **start-form entity**: this entity is used to generate the start form for start the process.
 * **user-task entity**: this entity is used to generate the form for a specific user task present in the process.
-
 
 
 ### 3. Generating the domain entity (TravelPlan)
@@ -221,11 +225,13 @@ Congratulations, JHipster execution is complete!
 Sponsored with ❤️  by @oktadev.
 ```
 
-All the files for the TravelPlan entity are generate. To verify the changes, restart the application and navigate to the menu **Entities -> TravelPlan**.
+All the files for the TravelPlan entity were generated. To verify the changes, restart the application and navigate to the menu **Entities -> TravelPlan**.
 
 
 ![part1-app-after-domain-entity-generation](https://user-images.githubusercontent.com/4369840/139123217-fb3cf58c-5804-484c-a0ea-dfc48c2c7a9d.png)
 
+**Note**: You can checkout the tag **part1-domain-entity** from the [TravelPlan repository on Github](https://github.com/AgileKip/travel-plan-tutorial) to get the code generated on this step. `git checkout part1-domain-entity`.
+{: .notice--warning}
 
 ### 4. Generating the process-bind entity (TravelPlanProcess)
 
@@ -306,6 +312,9 @@ After creating the metadata, execute the following command on the docker contain
 
 As before, the generator will show a message informing an existing file will be touched and ask for confirmation. You should say `y` (yes) to all confirmation questions.
 
+**Note**: You can checkout the tag **part1-process-binding-entity** from the [TravelPlan repository on Github](https://github.com/AgileKip/travel-plan-tutorial) to get the code generated on this step. `git checkout part1-process-binding-entity`.
+{: .notice--warning}
+
 
 ### 5. Generating the start-form entity (TravelPlanStartForm)
 
@@ -363,6 +372,10 @@ After creating the metadata, execute the following command on the docker contain
 
     jhipster entity TravelPlanStartForm --regenerate
 
+As before, the generator will show a message informing an existing file will be touched and ask for confirmation. You should say `y` (yes) to all confirmation questions.
+
+**Note**: You can checkout the tag **part1-start-form-entity** from the [TravelPlan repository on Github](https://github.com/AgileKip/travel-plan-tutorial) to get the code generated on this step. `git checkout part1-start-form-entity`.
+{: .notice--warning}
 
 ### 6. Deploying the process
 
@@ -392,6 +405,8 @@ On the deployment view page, you can see details from the deployment including i
 
 ![part1-process-deployment-5](https://user-images.githubusercontent.com/4369840/139153012-9bf2c40a-a764-4ec8-95e2-e4661dc1a5ff.png)
 
+**Note**: You can checkout the tag **part1-bpmn-deployed** from the [TravelPlan repository on Github](https://github.com/AgileKip/travel-plan-tutorial) to get the BPMN file `src/main/resources/TravelPlanProcess.bpmn` used in this step. `git checkout part1-bpmn-deployed`.
+{: .notice--warning}
 
 ### 7. Starting an instance of the process
 
@@ -488,6 +503,9 @@ Important notes about metadata for user-task-form entities:
 After creating the metadata, execute the following command on the docker container:
 
     jhipster entity TaskFlight --regenerate
+
+**Note**: You can checkout the tag **part1-user-task-flight** from the [TravelPlan repository on Github](https://github.com/AgileKip/travel-plan-tutorial) to get the code generated on this step. `git checkout part1-user-task-flight`.
+{: .notice--warning}    
 
 Now it's time to check the first user task you've just created. 
 

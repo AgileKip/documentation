@@ -1,15 +1,17 @@
 ---
 layout: single
 classes: wide
-permalink: /part03
-title: "Part04"
+permalink: /videos/part04
+title: "04 - Complex Entities"
 excerpt: "Part04"
 last_modified_at: 2021-01-20
-toc: true
 sidebar:
   nav: "docs"
 ---
 
-AK - Process Automation Platform
+Coming Soon
+
+**Note:** This video has no sound
+{: .notice--warning}
 
 Cheers and follow us on social networks!

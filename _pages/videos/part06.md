@@ -1,15 +1,17 @@
 ---
 layout: single
 classes: wide
-permalink: /part06
-title: "Part06"
+permalink: /videos/part06
+title: "06 - Subprocess"
 excerpt: "Part06"
 last_modified_at: 2021-01-20
-toc: true
 sidebar:
   nav: "docs"
 ---
 
-AK - Process Automation Platform
+Coming Soon
+
+**Note:** This video has no sound
+{: .notice--warning}
 
 Cheers and follow us on social networks!

@@ -20,35 +20,51 @@ main:
 # documentation links
 docs:
   - title: "Introduction"
+    url: /about
     children:
-      - title: "Introduction"
-        url: /intro
+      - title: "Process Automation"
+        url: /pais
       - title: "Core Technologies"
-        url: /coretech
+        url: /coretech       
   - title: "Tutorials"
+    url: /tutorials
     children:
       - title: "Installing AgileKIP Generator"
-        url: /installation
+        url: /tutorials/installation
       - title: "Generating an app"
-        url: /generating-an-app
-      - title: "Part01"
-        url: /part01
-      - title: "Part02"
-        url: /part02
-      - title: "Part03"
-        url: /part03
-      - title: "Part04"
-        url: /part04
-      - title: "Part05"
-        url: /part05
-      - title: "Part06"
-        url: /part06                
+        url: /tutorials/generating-an-app
+      - title: "Simple process"
+        url: /tutorials/part01
+      - title: "Gateways"
+        url: /tutorials/part02
+      - title: "Service Tasks"
+        url: /tutorials/part03
+      - title: "Message Tasks"
+        url: /tutorials/part04
+      - title: "Complex Entities"
+        url: /tutorials/part05
+      - title: "Subprocesses"
+        url: /tutorials/part06                
   - title: "Examples"
+    url: /examples
     children:
       - title: "The BuyBook"
-        url: /buybook
+        url: /examples/buybook
   - title: "Videos"
+    url: /videos
     children:
+      - title: "Getting Started"
+        url: "/videos/part01"
+      - title: "Handling Gateways"
+        url: "/videos/part02"  
+      - title: "Handling Service Tasks"
+        url: "/videos/part03"
+      - title: "Complex Entities"
+        url: "/videos/part04"  
+      - title: "Handling Messages"
+        url: "/videos/part05"
+      - title: "Subprocesses"
+        url: "/videos/part06"      
       - title: "Youtube Channel"
         url: /videos     
   - title: "Contact Us"

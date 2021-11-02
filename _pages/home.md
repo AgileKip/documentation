@@ -2,7 +2,7 @@
 layout: splash
 permalink: /
 header:
-  overlay_image: /assets/images/pap_back_logo.png
+  overlay_image: /assets/images/pap-backsplash.png
   overlay_filter: 0.4
   overlay_color: "#5e616c"
   actions:
@@ -14,22 +14,22 @@ feature_row:
   - _image_path: /assets/images/mm-customizable-feature.png
     alt: "about"
     title: "About"
-    excerpt: "Code Generation Platform for Process Aware Information Systems (PAIS). "
+    excerpt: "Open Source Code Generation Platform for Process Aware Information Systems."
     url: "/about"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
-  - _image_path: /assets/images/mm-free-feature.png
-    alt: "Introduction"
-    title: "Introduction"
-    excerpt: "Explaining the underlying concepts and technologies used to our solution "
-    url: "/intro"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - _image_path: /assets/images/mm-responsive-feature.png
     alt: "Tutorial"
-    title: "Tutorial"
-    excerpt: "Walkthrough the steps required to bootstrap your PAIS development.  "
-    url: "/intro"
+    title: "Tutorials"
+    excerpt: "Steps required to bootstrap developing a Process Aware Information System."
+    url: "/tutorials"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+  - _image_path: /assets/images/mm-free-feature.png
+    alt: "Examples"
+    title: "Examples"
+    excerpt: "Check or examples library and learn more."
+    url: "/examples"
     btn_class: "btn--primary"
     btn_label: "Learn more"
 ---

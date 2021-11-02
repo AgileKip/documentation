@@ -1,7 +1,7 @@
 ---
 layout: single
 classes: wide
-permalink: /installation
+permalink: /tutorials/installation
 title: "Installing AgileKIP Generator"
 excerpt: "InstallingAgileKIPGenerator"
 last_modified_at: 2021-10-25
