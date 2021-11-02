@@ -12,7 +12,7 @@ sidebar:
 
 Documentation
 
-- [Installation](installation)
+- [Installation](../experimental/installation)
 - [Generating an app](generating-an-app)
 - [Getting Started](part01)
 - Handling Gateways (soon)
@@ -21,4 +21,4 @@ Documentation
 - Handling Messages (soon)
 - Subprocess (soon)
 
-Cheers and follow us on social networks!!
+Cheers and follow us on social networks!!!
