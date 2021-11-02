@@ -19,4 +19,4 @@ List of Tutorials
 - [05 - Handling Messages](part05)
 - [06 - Subprocess](part06)
 
-Cheers and follow us on social networks!
+Cheers and follow us on social networks!!
