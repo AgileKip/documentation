@@ -12,13 +12,13 @@ sidebar:
 
 Documentation
 
-- [Installation](../experimental/installation)
-- [Generating an app](generating-an-app)
-- [Getting Started](part01)
+- [Installation](/pap-documentation/experimental/installation)
+- [Generating an app](/pap-documentation/experimental/generating-an-app)
+- [Getting Started](/pap-documentation/experimental/part01)
 - Handling Gateways (soon)
 - Handling ServiceTasks (soon)
 - Complex Entities (soon)
 - Handling Messages (soon)
 - Subprocess (soon)
 
-Cheers and follow us on social networks!!!
+Cheers and follow us on social networks!
