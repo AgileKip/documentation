@@ -12,11 +12,11 @@ sidebar:
 
 List of Tutorials
 
-- [01 - Getting Started](/tutorials/part01)
-- [02 - Handling Gateways](/tutorials/part02)
-- [03 - Handling ServiceTasks](/tutorials/part03)
-- [04 - Complex Entities](/tutorials/part04)
-- [05 - Handling Messages](/tutorials/part05)
-- [06 - Subprocess](/tutorials/part06)
+- [01 - Getting Started](part01)
+- [02 - Handling Gateways](part02)
+- [03 - Handling ServiceTasks](part03)
+- [04 - Complex Entities](part04)
+- [05 - Handling Messages](part05)
+- [06 - Subprocess](part06)
 
 Cheers and follow us on social networks!

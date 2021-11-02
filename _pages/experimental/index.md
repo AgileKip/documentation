@@ -12,9 +12,9 @@ sidebar:
 
 Documentation
 
-- [Installation](/experimental/installation)
-- [Generating an app](/experimental/generating-an-app)
-- [Getting Started](/experimental/part01)
+- [Installation](installation)
+- [Generating an app](generating-an-app)
+- [Getting Started](part01)
 - Handling Gateways (soon)
 - Handling ServiceTasks (soon)
 - Complex Entities (soon)
