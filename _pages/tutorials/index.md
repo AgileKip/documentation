@@ -12,11 +12,15 @@ sidebar:
 
 List of Tutorials
 
-- [01 - Getting Started](/tutorials/part01)
-- [02 - Handling Gateways](/tutorials/part02)
-- [03 - Handling ServiceTasks](/tutorials/part03)
-- [04 - Complex Entities](/tutorials/part04)
-- [05 - Handling Messages](/tutorials/part05)
-- [06 - Subprocess](/tutorials/part06)
+
+- [Installation](installation)
+- [Generating an app](generating-an-app)
+- [Getting Started](getting-started)
+- [Gateways](handling-gateways)
+- [Service Tasks](service-tasks)
+- [Message Tasks](message-tasks)
+- [Complex Entities](complex-entities)
+- [Updating the domain entity](updating-the-domain-entity)
+- [Subprocess](subprocesses)
 
 Cheers and follow us on social networks!

@@ -1,8 +1,8 @@
 ---
 layout: single
 classes: wide
-permalink: /tutorials/part01
-title: "Travel Plan Process - Part 1 (A very simple process)"
+permalink: /tutorials/getting-started
+title: "Getting started"
 excerpt: "Part01"
 last_modified_at: 2021-10-25
 toc: false
@@ -83,7 +83,7 @@ The next four steps are *entities oriented*. You should generated: *domain entit
 
 To generate the **TravelPlan** entity, create the metadata file `.jhipster/TravelPlan.json`:
 
-```
+```json
 {
     "fields": [
       {
@@ -237,7 +237,7 @@ All the files for the TravelPlan entity were generated. To verify the changes, r
 
 To generate the **TravelPlanProcess** entity, create the metadata file `.jhipster/TravelPlanProcess.json`: 
 
-```
+```json
 {
   "fields": [
     {
@@ -320,7 +320,7 @@ As before, the generator will show a message informing an existing file will be 
 
 To generate the **TravelPlanStartForm** entity, create the metadata file `.jhipster/TravelPlanStartForm.json`: 
 
-```
+```json
 {
     "fields": [
       {
@@ -438,7 +438,7 @@ The last entities on our list is the *user-task* entities.
 
 To generate the first user task of the process, **TaskFlight** entity, create the metadata file `.jhipster/TaskFlight.json`: 
 
-```
+```json
 {
     "fields": [
         {
@@ -531,7 +531,7 @@ After completing the *Choose Flight* task, you can check on the process instance
 
 To generate the next user task of the process, **TaskHotel** entity, create the metadata files `.jhipster/TaskHotel.json`: 
 
-```
+```json
 {
   "fields": [
     {
@@ -599,7 +599,7 @@ After completing the *Choose Hotel* task, you can check on the process instance 
 
 To generate the last user task of the process, **TaskCar** entity, create the metadata files `.jhipster/TaskCar.json`: 
 
-```
+```json
 {
     "fields": [
         {
@@ -664,4 +664,4 @@ After completing the *Rent a car* task, you can check on the process instance de
 ![part1-process-user-task-car-completed-1](https://user-images.githubusercontent.com/4369840/139313609-ed89080e-b9d9-467c-9f9e-1283487800e5.png)
 ![part1-process-user-task-car-completed-2](https://user-images.githubusercontent.com/4369840/139313610-a5c52f5a-834a-483c-a8dc-562db5c94226.png)
 
-You've just finished the development of your first process. Congratulations!!!
+Congratulations, you've just finished the development of your first process!!!

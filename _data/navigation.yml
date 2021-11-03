@@ -19,32 +19,34 @@ main:
 
 # documentation links
 docs:
-  - title: "Introduction"
-    url: /about
-    children:
-      - title: "Process Automation"
-        url: /pais
-      - title: "Core Technologies"
-        url: /coretech       
+#  - title: "Introduction"
+#    url: /about
+#    children:
+#      - title: "Process Automation"
+#        url: /pais
+#      - title: "Core Technologies"
+#        url: /coretech       
   - title: "Tutorials"
     url: /tutorials
     children:
-      - title: "Installing AgileKIP Generator"
+      - title: "Installation"
         url: /tutorials/installation
       - title: "Generating an app"
         url: /tutorials/generating-an-app
-      - title: "Simple process"
-        url: /tutorials/part01
+      - title: "Getting Started"
+        url: /tutorials/getting-started
       - title: "Gateways"
-        url: /tutorials/part02
+        url: /tutorials/handling-gateways
       - title: "Service Tasks"
-        url: /tutorials/part03
+        url: /tutorials/service-tasks
       - title: "Message Tasks"
-        url: /tutorials/part04
+        url: /tutorials/message-tasks
       - title: "Complex Entities"
-        url: /tutorials/part05
+        url: /tutorials/complex-entities
+      - title: "Updating the domain entity"
+        url: /tutorials/updating-the-domain-entity
       - title: "Subprocesses"
-        url: /tutorials/part06                
+        url: /tutorials/subprocesses
   - title: "Examples"
     url: /examples
     children:
