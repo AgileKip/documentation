@@ -13,14 +13,14 @@ sidebar:
 List of Tutorials
 
 
-- [Installation](installation)
-- [Generating an app](generating-an-app)
-- [Getting Started](getting-started)
-- [Gateways](handling-gateways)
-- [Service Tasks](service-tasks)
-- [Message Tasks](message-tasks)
-- [Complex Entities](complex-entities)
-- [Updating the domain entity](updating-the-domain-entity)
-- [Subprocess](subprocesses)
+- [Installation](/pap-documentation/tutorials/installation)
+- [Generating an app](/pap-documentation/tutorials/generating-an-app)
+- [Getting Started](/pap-documentation/tutorials/getting-started)
+- [Gateways](/pap-documentation/tutorials/handling-gateways)
+- [Service Tasks](/pap-documentation/tutorials/service-tasks)
+- [Message Tasks](/pap-documentation/tutorials/message-tasks)
+- [Complex Entities](/pap-documentation/tutorials/complex-entities)
+- [Updating the domain entity](/pap-documentation/tutorials/updating-the-domain-entity)
+- [Subprocess](/pap-documentation/tutorials/subprocesses)
 
 Cheers and follow us on social networks!
