@@ -11,7 +11,7 @@ sidebar:
 
 {% include video id="umeM2PXnvnU" provider="youtube" %}
 
-**Note:** This video has no sound
+**Notes:** This video has no sound and was based on AgileKip Generator version 0.0.6
 {: .notice--warning}
 
 Cheers and follow us on social networks!

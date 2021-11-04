@@ -11,7 +11,5 @@ sidebar:
 
 Coming Soon
 
-**Note:** This video has no sound
-{: .notice--warning}
 
 Cheers and follow us on social networks!

@@ -47,11 +47,11 @@ docs:
         url: /tutorials/updating-the-domain-entity
       - title: "Subprocesses"
         url: /tutorials/subprocesses
-  - title: "Examples"
-    url: /examples
-    children:
-      - title: "The BuyBook"
-        url: /examples/buybook
+#  - title: "Examples"
+#    url: /examples
+#    children:
+#      - title: "The BuyBook"
+#        url: /examples/buybook
   - title: "Videos"
     url: /videos
     children:
