@@ -13,7 +13,7 @@ sidebar:
 In this tutorial, we will focus on two strategies for working with gateways:
 
 - **Using implicit variables**
-- **Using a delegate**
+- **Using a java delegate**
 
 ## Using implicit variable
 
@@ -48,19 +48,20 @@ A similar configuration can be done in the "*same day trip*" flow:
 {: .notice--warning}
 
 
-## Using a delegate
+## Using a java delegate
 
-As we said before, using conditional expressions with the implicit variable `processInstance` is the easiest way to configure gateways. However, there are many situations for which these expressions are not suitable. For example for complex expressions or for conditinal expressions that requires a more sofisticated algorithm. In this scenarios, we can use delegates to configure gateways. 
+As we said before, using conditional expressions with the implicit variable `processInstance` is the easiest way to configure gateways. However, there are many situations for which these expressions are not suitable. For example for complex expressions or for conditinal expressions that requires a more sofisticated algorithm. In this scenarios, we can use java delegates to configure gateways. 
 
 Let's update the **Travel Plan Process** to use this strategy:
 
 
 ![part2-process-with-delegate-gateways](https://user-images.githubusercontent.com/4369840/140020970-f9578667-1037-4743-b514-d08dc9a1fd5c.png)
 
-In this version of the process, we included a delegate just before the *fork* gateway. The aim of this delegate is to calculate whether the trip has more than one day and set the result of this calculation as a variable in the process engine so it can be used later in the process.
+In this version of the process, we included a service task just before the *fork* gateway. The aim of this service task is to calculate whether the trip has more than one day and set the result of this calculation as a variable in the process engine so it can be used later in the process.
 
-The delegate is configured as follow:
+The service task is configured as follow:
 
+- Task type: **Service Task**
 - Implementation: **Delegate Expression**
 - Delegate Expression: `${calculateSameDayTripDelegate}`
 
