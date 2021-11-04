@@ -4,7 +4,7 @@ classes: wide
 permalink: /tutorials
 title: "Tutorials"
 excerpt: "Tutorials"
-last_modified_at: 2021-01-20
+last_modified_at: 2021-11-01
 toc: false
 sidebar:
   nav: "docs"
@@ -12,11 +12,15 @@ sidebar:
 
 List of Tutorials
 
-- [01 - Getting Started](/pap-documentation/tutorials/part01)
-- [02 - Handling Gateways](/pap-documentation/tutorials/part02)
-- [03 - Handling ServiceTasks](/pap-documentation/tutorials/part03)
-- [04 - Complex Entities](/pap-documentation/tutorials/part04)
-- [05 - Handling Messages](/pap-documentation/tutorials/part05)
-- [06 - Subprocess](/pap-documentation/tutorials/part06)
+
+- [Installation](installation)
+- [Generating an app](generating-an-app)
+- [Getting Started](getting-started)
+- [Gateways](handling-gateways)
+- [Service Tasks](service-tasks)
+- [Message Tasks](message-tasks)
+- [Complex Entities](complex-entities)
+- [Updating the domain entity](updating-the-domain-entity)
+- [Subprocess](subprocesses)
 
 Cheers and follow us on social networks!

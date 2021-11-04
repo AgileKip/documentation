@@ -1,7 +1,7 @@
 ---
 layout: single
 classes: wide
-permalink: /tutorials/part02
+permalink: /videos/part02
 title: "02 - Handling Gateways"
 excerpt: "Part02"
 last_modified_at: 2021-01-20
@@ -11,7 +11,7 @@ sidebar:
 
 {% include video id="aRFYdqtBPnE" provider="youtube" %}
 
-**Note:** This video has no sound
+**Notes:** This video has no sound and was based on AgileKip Generator version 0.0.6
 {: .notice--warning}
 
 Cheers and follow us on social networks!
