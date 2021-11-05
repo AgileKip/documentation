@@ -11,21 +11,20 @@ sidebar:
 ---
 
 
-Sending emails is something very common in process automation so in this tutorial we will focus on how to send emails using message tasks. 
+Sending emails is something very common in process automation so in this tutorial we will focus on how to send emails using *Send Tasks*. 
 
-*Message tasks* are quite similar to *service tasks* in the following way: 
+*Send Tasks* are quite similar to *Service Tasks* in the following way: 
 (a) they are automatically executed by the process engine; and
 (b) they are configured the same way (see our other tutorial [Service Tasks](/pap-documentation/tutorials/service-tasks))
 
-So let's change the **Travel Plan Process** to include a message task that aims at sending an email to the user with a summary of the travel plan at the end of the process:
+So let's change the **Travel Plan Process** to include a *Send Task* that aims at sending an email to the user with a summary of the travel plan at the end of the process:
 
 ![message-task-new-message-task](https://user-images.githubusercontent.com/4369840/140585323-cda8e2ca-7dfb-4d64-b0ef-f47a424dc979.png)
 
 
-To configure this new task, click on the wrench icon and then select the type **Message Task**.
+To configure this new task, click on the wrench icon and then select the type **Send Task**.
 
 ![message-task-new-message-task-configure-task-type](https://user-images.githubusercontent.com/4369840/140586869-5e8f1951-ec77-41a2-94d4-fd27cb6cc50d.png)
-
 
 
 Then configure the delegate on the *property* tab as follow:
@@ -58,7 +57,7 @@ public class EmailTravelPlanSummaryDelegate implements JavaDelegate {
 }
 ```
 
-So far we have configured the *message task* in the BPMN file and created an empty java delegate *EmailTravelPlanSummaryDelegate*. 
+So far we have configured the *Send Task* in the BPMN file and created an empty java delegate *EmailTravelPlanSummaryDelegate*. 
 We still have some code to do to enable the delegate to actually send the email. 
 An easy way to send emails in our reference architecture is by using the *MailService* component.
 
