@@ -19,8 +19,8 @@ main:
 
 # documentation links
 docs:
-#  - title: "Introduction"
-#    url: /about
+  - title: "About"
+    url: /about
 #    children:
 #      - title: "Process Automation"
 #        url: /pais

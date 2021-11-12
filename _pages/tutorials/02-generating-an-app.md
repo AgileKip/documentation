@@ -28,7 +28,7 @@ The steps to generate, start and test an app are:
 This command starts a shell session in the docker container previously created (see [Installing AgileKIP Generator](installation)). 
 If you are using an IDE (such as *Visual Code Studio* or *IntelliJ*) that has the feature to attach a shell to a started docker container, this step is not necessary.
 
-    HOST-MACHINE$ docker container exec -it agilekip.v0.0.11 bash
+    HOST-MACHINE$ docker container exec -it agilekip.v0.0.12 bash
 
 
 ### 2. Creating a working directory for the project
