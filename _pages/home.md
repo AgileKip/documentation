@@ -7,7 +7,9 @@ header:
   overlay_color: "#5e616c"
   actions:
     - label: "<i class='fab fa-github'></i> Github"
-      url: "https://github.com/AgileKip/pap-tutorials"
+      url: "https://github.com/AgileKip/"
+    - label: "<i class='fab fa-youtube'></i> Youtube"
+      url: "https://www.youtube.com/channel/UCHCj9TXj46_2LlC6G1xPV6g"    
 excerpt: Helping developers to create Process Aware Information Systems (PAIS)
   <!-- <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.17.2">Latest release v4.17.2</a></small> -->
 feature_row:

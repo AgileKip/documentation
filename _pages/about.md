@@ -2,7 +2,7 @@
 layout: single
 classes: wide
 permalink: /about
-title: "About"
+title: "About the Process Automation Platform (PAP)"
 excerpt: "About"
 last_modified_at: 2021-01-20
 toc: false
