@@ -551,6 +551,9 @@ As before, the generator will show a message informing an existing file will be 
 
 ![part5-user-task-car](https://user-images.githubusercontent.com/4369840/141426155-007be660-6dab-4d67-8509-ac85ae13e503.png)
 
+**Note**: You can checkout the tag **part5-complex-entities** from the [TravelPlan repository on Github](https://github.com/AgileKip/travel-plan-tutorial) to get the code generated on this step. `git checkout part5-complex-entities`.
+{: .notice--warning} 
+
 
 ### Summary
 
