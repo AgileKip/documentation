@@ -35,6 +35,8 @@ docs:
         url: /tutorials/generating-an-app
       - title: "Getting Started"
         url: /tutorials/getting-started
+      - title: "Project Structure and Tech Stack"
+        url: /tutorials/project-structure-and-tech-stack
       - title: "Gateways"
         url: /tutorials/handling-gateways
       - title: "Service Tasks"

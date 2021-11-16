@@ -16,6 +16,7 @@ List of Tutorials
 - [Installation](/pap-documentation/tutorials/installation)
 - [Generating an app](/pap-documentation/tutorials/generating-an-app)
 - [Getting Started](/pap-documentation/tutorials/getting-started)
+- [Project Structure and Tech Stack](/pap-documentation/tutorials/project-structure-and-tech-stack)
 - [Gateways](/pap-documentation/tutorials/handling-gateways)
 - [Service Tasks](/pap-documentation/tutorials/service-tasks)
 - [Message Tasks](/pap-documentation/tutorials/message-tasks)
