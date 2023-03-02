@@ -10,33 +10,27 @@ sidebar:
   nav: "docs"
 ---
 
-| Example                                                                 | Description                         |
-|-------------------------------------------------------------------------| ----------------------------------- |
-| Simple Travel Plan                                                      | [here](/travelTutorialSIMPLE)       |
-| Handling XOR Gateway                                                    | [here](/travelTutorialXOR)          |
-| Handling AND Gateway                                                    | [here](/travelTutorialAND)          |
-| Handling CALL Activity                                                  | [here](https://github.com/AgileKip/akip-travel-example/tree/main/travelTutorialCALL) |
-| Handling OR (Inclusive) Gateway                                         | [here](/travelTutorialOR)           |
-| Handling Service Task                                                   | [here](/travelTutorialSRV)          |
-| Using a Timer                                                           | [here](/travelTutorialTIMER)        |
-| Handling Events                                                         | [here](/travelTutorialEMSG)         |
-| Working with Sub-processes                                              | [here](/travelTutorialSUB)          |
-| Using Markers                                                           | [here](/travelTutorialMKR)          |
-| Using timer to Cancel a process                                         | [here](/travelTutorialCANCEL)       |
-| Calling other processes **(FAILING TO DECOUPLE PROCESSES)**             | [here](/travelTutorialSUB)          |
-| Handling Loops                                                          | [here](/travelTutorialLOOP)         |
-| Multiple Entities Part I                                                | [here](/travelTutorialENTITIES)     |
-| Multiple Entities Part II - Updating Entities programmatically          | [here](/travelTutorialENTITIES2)    |
-| Multiple Entities Part III - Tweaking the UX                            | [here](/travelTutorialENTITIES3)    |
-| Using Pools & Messages **(FAILING TO DEPLOY)**                          | [here](/travelTutorialPOOL)         |
-| Adding Validations to Forms **(FAILING)**                               | [here](/travelTutorialVAL)          |
-| Adding Validations to Forms Programmatically (WIP)                      | --                                  |
-| Canceling Processes Nicely **(FAILING - JOB EXECUTOR IS NOT STARTING)** | [here](/travelTutorialTIMER2CANCEL) |
-| Sending messages programmatically (WIP)                                 | --                                  |
-| Making Decisions with DMN (WIP)                                         | --                                  |
-| Connecting Front and Back for New Features (WIP)                        | --                                  |
-| Putting it all together                                                 | [here](/travelTutorialCOMPLETE)     |
-| Using Transactions (WIP)                                                | --                                  |
-| Using Variables (WIP)                                                   | --                                  |
+| Example                                                        | Description                                                                                  |
+|----------------------------------------------------------------|----------------------------------------------------------------------------------------------|
+| Simple Travel Plan                                             | [here](https://github.com/AgileKip/akip-travel-example/tree/main/travelTutorialSIMPLE)       |
+| Handling XOR Gateway                                           | [here](https://github.com/AgileKip/akip-travel-example/tree/main/travelTutorialXOR)          |
+| Handling AND Gateway                                           | [here](https://github.com/AgileKip/akip-travel-example/tree/main/travelTutorialAND)          |
+| Handling CALL Activity                                         | [here](https://github.com/AgileKip/akip-travel-example/tree/main/travelTutorialCALL)         |
+| Handling OR (Inclusive) Gateway                                | [here](https://github.com/AgileKip/akip-travel-example/tree/main/travelTutorialOR)           |
+| Handling Service Task                                          | [here](https://github.com/AgileKip/akip-travel-example/tree/main/travelTutorialSRV)          |                                                 |
+| Using a Timer                                                  | [here](https://github.com/AgileKip/akip-travel-example/tree/main/travelTutorialTIMER)        |                                                          |
+| Handling Events                                                | [here](https://github.com/AgileKip/akip-travel-example/tree/main/travelTutorialEMSG)         |
+| Working with Sub-processes                                     | [here](https://github.com/AgileKip/akip-travel-example/tree/main/travelTutorialSUB)          |
+| Using Markers                                                  | [here](https://github.com/AgileKip/akip-travel-example/tree/main/travelTutorialMKR)          |
+| Using timer to Cancel a process                                | [here](https://github.com/AgileKip/akip-travel-example/tree/main/travelTutorialCANCEL)       |
+| Calling other processes                                        | [here](https://github.com/AgileKip/akip-travel-example/tree/main/travelTutorialSUB)          |
+| Handling Loops                                                 | [here](https://github.com/AgileKip/akip-travel-example/tree/main/travelTutorialLOOP)         |
+| Multiple Entities Part I                                       | [here](https://github.com/AgileKip/akip-travel-example/tree/main/travelTutorialENTITIES)     |
+| Multiple Entities Part II - Updating Entities programmatically | [here](https://github.com/AgileKip/akip-travel-example/tree/main/travelTutorialENTITIES2)    |
+| Multiple Entities Part III - Tweaking the UX                   | [here](https://github.com/AgileKip/akip-travel-example/tree/main/travelTutorialENTITIES3)    |
+| **Using Pools & Messages **(FAILING TO DEPLOY)****             | [here](https://github.com/AgileKip/akip-travel-example/tree/main/travelTutorialPOOL)         |
+| Adding Validations to Forms                                    | [here](https://github.com/AgileKip/akip-travel-example/tree/main/travelTutorialVAL)          |
+| Canceling Processes Nicely                                     | [here](https://github.com/AgileKip/akip-travel-example/tree/main/travelTutorialTIMER2CANCEL) |
+| Putting it all together                                        | [here](https://github.com/AgileKip/akip-travel-example/tree/main/travelTutorialCOMPLETE)     |
 
 Cheers and follow us on social networks!
