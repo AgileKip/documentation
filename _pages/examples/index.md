@@ -28,7 +28,6 @@ sidebar:
 | Multiple Entities Part I                                       | [here](https://github.com/AgileKip/akip-travel-example/tree/main/travelTutorialENTITIES)     |
 | Multiple Entities Part II - Updating Entities programmatically | [here](https://github.com/AgileKip/akip-travel-example/tree/main/travelTutorialENTITIES2)    |
 | Multiple Entities Part III - Tweaking the UX                   | [here](https://github.com/AgileKip/akip-travel-example/tree/main/travelTutorialENTITIES3)    |
-| **Using Pools & Messages **(FAILING TO DEPLOY)****             | [here](https://github.com/AgileKip/akip-travel-example/tree/main/travelTutorialPOOL)         |
 | Adding Validations to Forms                                    | [here](https://github.com/AgileKip/akip-travel-example/tree/main/travelTutorialVAL)          |
 | Canceling Processes Nicely                                     | [here](https://github.com/AgileKip/akip-travel-example/tree/main/travelTutorialTIMER2CANCEL) |
 | Putting it all together                                        | [here](https://github.com/AgileKip/akip-travel-example/tree/main/travelTutorialCOMPLETE)     |
